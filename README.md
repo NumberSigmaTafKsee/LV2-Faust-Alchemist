@@ -10,3 +10,7 @@ std::faust is c++ callable faust libraries and effects
 * Can only run faust scripts
 * can also run polyphonic faust scripts
 
+# FX Database
+* sometime I will make the fx database
+* Can query the fx you want and get the codes
+* Can have a tiny prolog and use logic to find your fausts
