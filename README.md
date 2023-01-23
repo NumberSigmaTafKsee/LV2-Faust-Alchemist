@@ -14,3 +14,12 @@
 * Not at all to make applications or anything
 * As functions it works perfectly
 
+# You can not call c++ from faust
+* I do not think so
+* The only way to call faust from c++ is to use the LLVM
+* Or have faust generate c++ code
+* In theory faust can optimize dsp much better than c++
+* Faust isn't a general purpose language and is only for audio dsp samples
+* A c++ compiler has to optimize for many general purpose things
+* So faust could generate much more optimzied code because it is not a general purpose language like c++
+
