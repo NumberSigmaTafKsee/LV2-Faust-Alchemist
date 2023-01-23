@@ -23,3 +23,7 @@
 * A c++ compiler has to optimize for many general purpose things
 * So faust could generate much more optimzied code because it is not a general purpose language like c++
 
+# Faust LLVM
+* I have the general code to run it
+* I can use it in Lua, Octave, Python too
+* You could use it in any language that can work with Swig
