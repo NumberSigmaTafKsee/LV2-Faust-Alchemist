@@ -6,6 +6,9 @@
 # Faust 
 * I am working to build it on the arm cortex board
 * I will do more dsp with it 
+* The reason I dont is it is not like c++
+* You can not do things the way you want to
+* It is a functional logic and thus you must do it functionally and I didn't like it
 
 # C++
 * I had salvaged all the codes I found
