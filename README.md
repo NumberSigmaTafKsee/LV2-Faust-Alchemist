@@ -28,5 +28,6 @@
 * I have Carlo MKL/IPP and Kentucky Kfr
 * That is the Casino DSP
 * I think ne10 will be perfect too
+* CMSIS is to heavy and industrial
 * I have more dsp even than that by far
 * I have all the DSP of the world 
