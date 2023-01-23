@@ -11,7 +11,7 @@
 * You have to do it functionally 
 
 # I plan to use it as algorithms
-* Not at all to make applications or anything
+* Not at all to make plugins 
 * As functions it works perfectly
 
 # You can not call c++ from faust
