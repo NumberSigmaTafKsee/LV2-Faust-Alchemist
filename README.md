@@ -11,6 +11,8 @@
 * I had salvaged all the codes I found
 * Millions of codes 
 * It was a big hassle to make it work
+* I was learning DSP theory though, so it was easier at that time to use it
+* Now I have Octave,Python,Lua,and Faust
 * When Faust already has it and can do it easy
 
 # CoreDSP
