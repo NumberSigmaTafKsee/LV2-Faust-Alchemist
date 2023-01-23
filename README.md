@@ -13,6 +13,7 @@
 * It was a big hassle to make it work
 * I was learning DSP theory though, so it was easier at that time to use it
 * Now I have Octave,Python,Lua,and Faust
+* If I disover how to make sense of the Scilab API I will use that too it has alot of good tutorials
 * When Faust already has it and can do it easy
 
 # CoreDSP
