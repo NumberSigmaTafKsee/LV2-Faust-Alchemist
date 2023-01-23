@@ -13,3 +13,9 @@
 * It was a big hassle to make it work
 * When Faust already has it and can do it easy
 
+# CoreDSP
+* I have Carlo MKL/IPP and Kentucky Kfr
+* That is the Casino DSP
+* I think ne10 will be perfect too
+* I have more dsp even than that by far
+* I have all the DSP of the world 
