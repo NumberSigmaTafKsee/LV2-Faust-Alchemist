@@ -1,4 +1,4 @@
-# dsp-faust-alchemist
+# Faust-Alchemist
 * Filters
 * Oscillators
 * Amplifiers
