@@ -10,3 +10,7 @@
 * It's not like C where you can anything you want to do
 * You have to do it functionally 
 
+# I plan to use it as algorithms
+* Not at all to make applications or anything
+* As functions it works perfectly
+
