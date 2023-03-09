@@ -5,3 +5,7 @@
 
 # FaustFX
 * It is some rinky code to use Faust LLVM 
+
+# Opcode synthesizer
+* the experimental faust library
+* It generates the opcodes for simple Faust audio stream
