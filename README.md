@@ -17,3 +17,5 @@
 # It is a theory of Machine Audio Intelligence
 * No, the artificial intelligence is the faust language
 * This is just a machine intelligence not human
+* I will not pretend it is a human intelligence
+* It will synthesize the audio with nuclear sharp precision though
