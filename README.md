@@ -19,3 +19,8 @@
 * This is just a machine intelligence not human
 * I will not pretend it is a human intelligence
 * It will synthesize the audio with nuclear sharp precision though
+
+# I will never take it to the machine audio intelligence level
+* I am just being retarded about it
+* When you see it you will say you know I never realized you can do that
+* The simplest things are the things people cherish dearly or despise and detest with prejudice
