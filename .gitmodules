@@ -1,0 +1,3 @@
+[submodule "mephisto.lv2"]
+	path = mephisto.lv2
+	url = https://github.com/OpenMusicKontrollers/mephisto.lv2
