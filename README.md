@@ -13,3 +13,7 @@
 # You will not understand it now
 * Later you will understand Machine Intelligence Theory of Dynamic Functional Vector Languages
 * Faust, it is an artificial intelligence language but already convenientely has all the flangers you will want to have
+
+# It is a theory of Machine Audio Intelligence
+* No, the artificial intelligence is the faust language
+* This is just a machine intelligence not human
